@@ -1,0 +1,92 @@
+{
+  "GROCERY": {
+    "category_name": "Grocery / General Store",
+    "hsn_sac": "0801 / 1006 / 2106",
+    "gst_rate_pct": 5.0,
+    "input_tax_credit_eligible": true,
+    "composition_scheme_eligible": true,
+    "composition_tax_rate_pct": 1.0,
+    "reverse_charge_applicable": false,
+    "tax_compliance_rating": "LOW_COMPLEXITY"
+  },
+  "DAIRY": {
+    "category_name": "Dairy / Milk Products",
+    "hsn_sac": "0401 / 0402 / 0405",
+    "gst_rate_pct": 0.0,
+    "input_tax_credit_eligible": false,
+    "composition_scheme_eligible": false,
+    "composition_tax_rate_pct": 0.0,
+    "reverse_charge_applicable": false,
+    "tax_compliance_rating": "EXEMPT"
+  },
+  "POULTRY": {
+    "category_name": "Poultry Farming",
+    "hsn_sac": "0105 / 0207",
+    "gst_rate_pct": 0.0,
+    "input_tax_credit_eligible": false,
+    "composition_scheme_eligible": false,
+    "composition_tax_rate_pct": 0.0,
+    "reverse_charge_applicable": false,
+    "tax_compliance_rating": "EXEMPT"
+  },
+  "TAILOR": {
+    "category_name": "Tailoring / Boutique",
+    "hsn_sac": "9988",
+    "gst_rate_pct": 5.0,
+    "input_tax_credit_eligible": true,
+    "composition_scheme_eligible": true,
+    "composition_tax_rate_pct": 1.0,
+    "reverse_charge_applicable": false,
+    "tax_compliance_rating": "MODERATE"
+  },
+  "BAKERY": {
+    "category_name": "Bakery / Snacks",
+    "hsn_sac": "1905",
+    "gst_rate_pct": 18.0,
+    "input_tax_credit_eligible": true,
+    "composition_scheme_eligible": true,
+    "composition_tax_rate_pct": 5.0,
+    "reverse_charge_applicable": false,
+    "tax_compliance_rating": "HIGH_BURDEN"
+  },
+  "HANDICRAFT": {
+    "category_name": "Handicraft / Weaving",
+    "hsn_sac": "5007 / 5208 / 4602",
+    "gst_rate_pct": 5.0,
+    "input_tax_credit_eligible": true,
+    "composition_scheme_eligible": true,
+    "composition_tax_rate_pct": 1.0,
+    "reverse_charge_applicable": false,
+    "tax_compliance_rating": "CONCESSIONAL"
+  },
+  "SALON": {
+    "category_name": "Salon / Beauty Parlour",
+    "hsn_sac": "9997",
+    "gst_rate_pct": 18.0,
+    "input_tax_credit_eligible": true,
+    "composition_scheme_eligible": true,
+    "composition_tax_rate_pct": 6.0,
+    "reverse_charge_applicable": false,
+    "tax_compliance_rating": "SERVICE_BURDEN"
+  },
+  "ELECTRONICS": {
+    "category_name": "Mobile & Electronics Repair",
+    "hsn_sac": "8517 / 9987",
+    "gst_rate_pct": 18.0,
+    "input_tax_credit_eligible": true,
+    "composition_scheme_eligible": true,
+    "composition_tax_rate_pct": 6.0,
+    "reverse_charge_applicable": false,
+    "tax_compliance_rating": "HIGH_BURDEN"
+  },
+  "HARDWARE": {
+    "category_name": "Hardware / Building Materials",
+    "hsn_sac": "7318 / 6810 / 2523",
+    "gst_rate_pct": 18.0,
+    "input_tax_credit_eligible": true,
+    "composition_scheme_eligible": false,
+    "composition_tax_rate_pct": 0.0,
+    "reverse_charge_applicable": false,
+    "tax_compliance_rating": "HEAVY_COMPLIANCE"
+  }
+}

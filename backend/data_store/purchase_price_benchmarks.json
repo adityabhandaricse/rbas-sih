@@ -1,0 +1,56 @@
+{
+  "GROCERY": {
+    "avg_gross_margin_pct": 16.5,
+    "inventory_turnover_days": 18,
+    "working_capital_share_pct": 70.0,
+    "supplier_credit_days": 14
+  },
+  "DAIRY": {
+    "avg_gross_margin_pct": 24.0,
+    "inventory_turnover_days": 3,
+    "working_capital_share_pct": 45.0,
+    "supplier_credit_days": 7
+  },
+  "POULTRY": {
+    "avg_gross_margin_pct": 28.5,
+    "inventory_turnover_days": 45,
+    "working_capital_share_pct": 60.0,
+    "supplier_credit_days": 21
+  },
+  "TAILOR": {
+    "avg_gross_margin_pct": 42.0,
+    "inventory_turnover_days": 25,
+    "working_capital_share_pct": 30.0,
+    "supplier_credit_days": 30
+  },
+  "BAKERY": {
+    "avg_gross_margin_pct": 32.0,
+    "inventory_turnover_days": 6,
+    "working_capital_share_pct": 50.0,
+    "supplier_credit_days": 10
+  },
+  "HANDICRAFT": {
+    "avg_gross_margin_pct": 38.0,
+    "inventory_turnover_days": 60,
+    "working_capital_share_pct": 40.0,
+    "supplier_credit_days": 45
+  },
+  "SALON": {
+    "avg_gross_margin_pct": 58.0,
+    "inventory_turnover_days": 30,
+    "working_capital_share_pct": 20.0,
+    "supplier_credit_days": 15
+  },
+  "ELECTRONICS": {
+    "avg_gross_margin_pct": 22.0,
+    "inventory_turnover_days": 28,
+    "working_capital_share_pct": 65.0,
+    "supplier_credit_days": 15
+  },
+  "HARDWARE": {
+    "avg_gross_margin_pct": 18.0,
+    "inventory_turnover_days": 40,
+    "working_capital_share_pct": 75.0,
+    "supplier_credit_days": 30
+  }
+}

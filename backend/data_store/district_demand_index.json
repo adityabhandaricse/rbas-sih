@@ -1,0 +1,36 @@
+{
+  "default": {
+    "per_capita_spend_index": 1.0,
+    "demand_elasticity": 0.85,
+    "seasonal_variance_pct": 12.0,
+    "credit_absorption_capacity": "MEDIUM"
+  },
+  "Bankura": {
+    "per_capita_spend_index": 0.92,
+    "demand_elasticity": 0.90,
+    "seasonal_variance_pct": 15.5,
+    "credit_absorption_capacity": "HIGH",
+    "high_demand_categories": ["DAIRY", "HANDICRAFT", "FERTILIZER"]
+  },
+  "Hooghly": {
+    "per_capita_spend_index": 1.18,
+    "demand_elasticity": 0.78,
+    "seasonal_variance_pct": 9.2,
+    "credit_absorption_capacity": "VERY_HIGH",
+    "high_demand_categories": ["GROCERY", "POULTRY", "BAKERY", "ELECTRONICS"]
+  },
+  "Purba Bardhaman": {
+    "per_capita_spend_index": 1.05,
+    "demand_elasticity": 0.82,
+    "seasonal_variance_pct": 11.0,
+    "credit_absorption_capacity": "HIGH",
+    "high_demand_categories": ["GROCERY", "DAIRY", "HARDWARE"]
+  },
+  "Paschim Medinipur": {
+    "per_capita_spend_index": 0.88,
+    "demand_elasticity": 0.94,
+    "seasonal_variance_pct": 18.0,
+    "credit_absorption_capacity": "MEDIUM",
+    "high_demand_categories": ["POULTRY", "HANDICRAFT"]
+  }
+}
